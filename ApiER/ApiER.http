@@ -1,0 +1,6 @@
+@ApiER_HostAddress = http://localhost:5155
+
+GET {{ApiER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
